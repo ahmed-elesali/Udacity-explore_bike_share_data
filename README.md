@@ -62,7 +62,7 @@ Finally, the user is prompted with the choice of restarting the program or not.
 * washington.csv
 # Built with:
 
-* [Python 3.6.6](https://www.python.org/) - The language used to develop the script.
+* [Python 3.8.8](https://www.python.org/) - The language used to develop the script.
 
 * [pandas](https://pandas.pydata.org/) -the librarie used for the code.
 
