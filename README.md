@@ -51,7 +51,7 @@ Finally, the user is prompted with the choice of restarting the program or not.
 
 # Requirements:
 
-* Language: Python 3.6 or above
+* Language: Python 3.8.8 or above
 
 * Libraries: pandas, numpy, time
 
