@@ -76,11 +76,11 @@ Finally, the user is prompted with the choice of restarting the program or not.
 
 # Sources help to solve the implementation of the project :
 
-*http://introtopython.org/while_input.html
+* http://introtopython.org/while_input.html
 
-*https://github.com/Aritra96/bikeshare-project - help in most of code structure and understand the logic of the code
+* https://github.com/Aritra96/bikeshare-project - help in most of code structure and understand the logic of the code
 
-*https://github.com/philribbens
+* https://github.com/philribbens
 
 * [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was helpful in understanding implementation of pandas methods used in this project.
 
